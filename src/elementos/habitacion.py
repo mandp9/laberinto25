@@ -1,4 +1,4 @@
-from .Contenedor import Contenedor
+from .contenedor import Contenedor
 
 class Habitacion(Contenedor):
     """Representa una habitación dentro del laberinto."""
