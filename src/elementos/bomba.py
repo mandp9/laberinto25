@@ -1,4 +1,4 @@
-from elementos.Decorator import Decorator
+from .elementoMapa import ElementoMapa
 
-class Bomba(Decorator):
+class Bomba():
     """Decorador que representa una bomba en el laberinto."""

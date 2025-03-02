@@ -1,4 +1,4 @@
-from .Pared import Pared
+from ..elementos.Pared import Pared
 
 class ParedBomba(Pared):
     """Pared especial que explota cuando alguien intenta cruzarla."""

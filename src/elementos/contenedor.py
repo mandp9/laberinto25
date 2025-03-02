@@ -1,5 +1,5 @@
 from abc import abstractmethod
-from .ElementoMapa import ElementoMapa
+from .elementoMapa import ElementoMapa
 
 class Contenedor(ElementoMapa):
     """Contenedor es el Composite. Es un EM que tiene hijos."""

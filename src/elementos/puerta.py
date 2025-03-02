@@ -1,4 +1,4 @@
-from .ElementoMapa import ElementoMapa
+from .elementoMapa import ElementoMapa
 
 class Puerta(ElementoMapa):
     

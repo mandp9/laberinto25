@@ -1,4 +1,4 @@
-from .Contenedor import Contenedor
+from .contenedor import Contenedor
 
 class Laberinto(Contenedor):
     """Representa el laberinto del juego, compuesto por múltiples habitaciones, elementos y bichos."""
